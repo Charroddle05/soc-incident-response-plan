@@ -25,3 +25,14 @@ Technology Used
 - Employee Email
 - Wi-Fi Network
 - Cloud Storage
+
+## Critical Assets
+
+| Asset | Priority |
+|-------|----------|
+| Customer Database | High |
+| POS System | Critical |
+| Payment System | Critical |
+| Online Ordering Website | Critical |
+| Employee Email | High |
+| Inventory System | Medium |
